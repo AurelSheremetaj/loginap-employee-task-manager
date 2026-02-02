@@ -28,16 +28,6 @@ still under development.
 - Kivy / KivyMD
 - PostgreSQL (psycopg2)
 
-## Screenshots
-
-### Login
-![Login](screenshots/login.png)
-
-### Employees
-![Employees](screenshots/employees.png)
-
-### Tasks
-![Tasks](screenshots/tasks.png)
 
 ## Author
 Aurel Sheremetaj
